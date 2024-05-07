@@ -1,0 +1,725 @@
+.nav {
+    height: 120px;
+    width: 1247px;
+    background-color: gainsboro;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    z-index: 3;
+    justify-content: space-between;
+    margin-top: -7px;
+
+}
+
+.nav2 {
+    display: flex;
+    align-items: center;
+    gap: 4vw;
+}
+
+h4 {
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+div.app {
+
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: brown;
+    margin: 20px;
+
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: Lato;
+    font-size: 10px;
+    font-weight: 800;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.image1 {
+    position: relative;
+
+}
+
+.image2 {
+    position: absolute;
+    z-index: 2;
+    bottom: -175px;
+    left: 125px;
+    width: 1000px;
+    height: 200px;
+}
+
+.container {
+    display: flex;
+height: 650px;
+}
+.container2{
+    display: flex;
+    height: 400px;
+}
+.box1 {
+    margin-top: 100px;
+}
+
+.box2 {
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+
+h5 {
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 750;
+    line-height: 0px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+    margin-bottom: 1em;
+
+}
+
+h6 {
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 0px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #C2571A;
+    margin-bottom: 1em;
+    margin-top: 1.5em;
+}
+
+h7 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.third {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.fourth {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom: black solid;
+    border-top: black solid;
+}
+
+.one {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.back {
+    height: 350px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h8 {
+    font-family: Lato;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: white;
+
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.flexbox {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.flex {
+    display: flex;
+    margin-top: 50px;
+    margin: 100px;
+    justify-content: space-around;
+
+}
+
+.web {
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+
+    margin-bottom: 50px;
+
+}
+
+h10 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 15px;
+    letter-spacing: 0em;
+
+    margin-left: 18px;
+
+}
+
+h11 {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+h12 {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.container {
+    background-color: gainsboro;
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 40px;
+}
+
+.head {
+    position: relative;
+    text-align: center;
+}
+
+.right {
+    background: #EEEEEE;
+    border-radius: 20px;
+}
+
+h13 {
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+div.foot {
+    width: 1250px;
+    height: 40px;
+    display: flex;
+    background-color: brown;
+    align-items: center;
+
+}
+
+h14 {
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+
+    margin-left: 275px;
+}
+
+h15 {
+    font-family: Montserrat;
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    margin-top: 200px;
+}
+
+h16 {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+
+.services {
+    height: 350px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.image {
+    height: 350px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h17 {
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.rect {
+    width: 1200px;
+    height: 120px;
+    border-radius: 30px;
+
+    margin: 20px;
+    margin-top: 75px;
+    border-bottom: black solid;
+    border-top: black solid;
+}
+
+h18 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: flex;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.content {
+    display: flex;
+    margin-top: 100px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    justify-content: space-between;
+    align-self: center;
+    margin: 50px;
+    row-gap: 50px;
+}
+
+.col {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.nav2 i {
+    font-size: 2vw;
+    display: none;
+}
+
+#servp {
+    height: 300px;
+    width: 1100px;
+}
+
+.box2 {
+    height: "300px"
+}
+
+#doc {
+    width: 1247px;
+    margin-top: 110px;
+    height: 400px;
+}
+
+#grou {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.right {
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    width: 750px;
+}
+
+.left {
+    margin-left: 50px;
+}
+
+.right h1 {
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 40px;
+
+}
+
+.right ul {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.area{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+label{
+    font-family: Lato;
+font-size: 25px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #812118;
+
+}
+#category{
+    font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+border-radius: 10px;
+width: 170px;
+}
+#sear{
+    font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+border-radius: 10px;
+}
+.goyal h2{
+    font-family: Lato;
+font-size: 30px;
+font-weight: 800;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+margin-top: 300px;
+
+}
+.goyal{
+    width: 382px;
+    height: 354px;
+}
+@media screen and (max-width: 767px) {
+    .nav2 h4 {
+        font-size: 4vw;
+        display: none;
+    }
+
+    .nav i {
+        display: block;
+        font-size: 10vw;
+        margin-right: 50px;
+    }
+
+    .nav {
+        width: 100%;
+    }
+
+    .app {
+        display: none;
+    }
+
+    .services h6 {
+        font-size: 5vw;
+    }
+
+    .image2 {
+        position: absolute;
+        z-index: 2;
+        top: 325px;
+        left: 125px;
+        width: 1000px;
+        height: 200px;
+    }
+
+    .rect {
+        width: 100%;
+        height: 100%;
+    }
+
+    .rect h18 {
+        font-size: 3vw;
+    }
+
+    .footer {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .image h15 {
+        font-size: 7vw;
+    }
+
+    .image h16 {
+        font-size: 5vw;
+    }
+
+
+    .head {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .col {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .image1 {
+        height: 250px;
+    }
+
+    .image2 {
+        margin-left: -80px;
+        width: 300px;
+        height: 75px;
+        margin-bottom: 440px;
+
+    }
+
+    .box1 {
+        margin-top: 30px;
+        width: 200px;
+
+    }
+
+    #we {
+        height: 175px;
+        width: 175px;
+    }
+
+    .box1 h6 {
+        font-size: 20px;
+        width: 100%;
+        line-height: 1;
+    }
+
+    .third h6 {
+        font-size: 20px;
+        text-align: center;
+        line-height: 1;
+    }
+
+    .one {
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .third {
+        display: flex;
+
+        flex-direction: column;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .third h7 {
+        font-size: 20px;
+        text-align: left;
+        margin-left: 20px;
+    }
+
+    #servp {
+        height: 200px;
+        width: 350px;
+    }
+
+    .back {
+        width: 370px;
+    }
+
+    .back h8 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    #imge {
+        width: 360px;
+    }
+
+    .fourth h6 {
+        font-family: Lato;
+        font-size: 22px;
+        font-weight: 900;
+        line-height: 0px;
+        letter-spacing: 0.03em;
+        text-align: center;
+        color: #C2571A;
+        margin-bottom: 1em;
+        margin-top: 1.5em;
+    }
+
+    .fourth {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-left: 0px;
+        margin-right: 0px;
+        border-bottom: black solid;
+        border-top: black solid;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #mahesh {
+        margin-right: 75px;
+    }
+
+    #panel {
+        width: 400px;
+        height: 150px
+    }
+
+    div.foot {
+        width: 375px;
+        height: 40px;
+        display: flex;
+        background-color: brown;
+        align-items: center;
+
+    }
+
+    h14 {
+        font-family: Lato;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #FFFFFF;
+
+        margin-left: 0px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .right {
+        margin-left: -30px;
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+    }
+
+    #opp {
+        margin-left: -75px;
+    }
+
+    .wrapper {
+        margin-left: -10px;
+    }
+
+    #doc {
+        width: 380px;
+        height: 250px;
+    }
+
+    #grou {
+        width: 380px;
+        margin-left: 0px;
+    }
+    .area{
+        width: 100px;
+        margin-left: 5px;
+        margin-right: -60px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
